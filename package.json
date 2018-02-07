@@ -1,7 +1,7 @@
 {
   "name": "currio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Personal Bookmark Manager",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
