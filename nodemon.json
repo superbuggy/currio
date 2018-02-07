@@ -1,0 +1,7 @@
+{
+  "ignore": [
+    ".git",
+    "bookmarks.json",
+    "node_modules/**/node_modules"
+  ]
+}
